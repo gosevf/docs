@@ -9,7 +9,11 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "groups": []
+    "tabs": [
+      {
+        "tab": "OpenAPI Spec"
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
